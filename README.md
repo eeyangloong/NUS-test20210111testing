@@ -9,6 +9,7 @@ Some more dummy text, 25 mins until lunch
 * cloud with gilbert
 * docker - if time permits
 * hand out reading assignments
+* THIS IS FROM CLOUD SHELL EDITOR.
 
 ![](babyyoda.jfif)
 

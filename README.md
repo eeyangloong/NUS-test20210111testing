@@ -8,3 +8,4 @@ Some more dummy text, 25 mins until lunch
 * no more git
 * cloud with gilbert
 * docker - if time permits
+* hand out reading assignments

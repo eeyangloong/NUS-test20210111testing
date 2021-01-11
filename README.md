@@ -12,5 +12,6 @@ Some more dummy text, 25 mins until lunch
 
 ![](babyyoda.jfif)
 
-![](https://github.com/eeyangloong/NUS-test20210111testing/blob/main/babyyoda.jfif)
+![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
+
 

@@ -11,3 +11,6 @@ Some more dummy text, 25 mins until lunch
 * hand out reading assignments
 
 ![](babyyoda.jfif)
+
+![](https://github.com/eeyangloong/NUS-test20210111testing/blob/main/babyyoda.jfif)
+
